@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#!/testing/
 exit_code=0
 
 echo "*** Running Enroll App container app specs"
