@@ -1,4 +1,4 @@
-This is the personal version of the DCHBX enroll app codebase. This version is for testing and general usage, and is not the code you wish to use, trust me. Check out dchbx/enroll for the real deal, and good luck and happy coding.
+This is the personal version of the DCHBX enroll app codebase. This version is for testing and general usage, and is not the code you wish to use, trust me. Check out dchbx/enroll for the real deal, and good luck and happy coding. -BrianMeyer
 
 # Enroll
 

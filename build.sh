@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash bpm2020
 
 result=0
 
